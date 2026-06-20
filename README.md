@@ -1,7 +1,5 @@
 # HDLBits-Solution
 
-# HDLBits Solutions
-
 This repository contains my solutions to the HDLBits problem set, which I completed as part of my journey in learning Verilog HDL and digital design.
 
 ## Overview
@@ -29,9 +27,13 @@ The purpose of this repository is to document my learning process and strengthen
 ## Repository Structure
 
 Combinational Logic/
+
 Sequential Logic/
+
 Counters/
+
 FSM/
+
 Verification/
 
 ## Future Work
